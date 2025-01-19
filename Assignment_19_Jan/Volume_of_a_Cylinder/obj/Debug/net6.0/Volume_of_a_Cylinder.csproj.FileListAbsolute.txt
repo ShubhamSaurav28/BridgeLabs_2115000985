@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\bin\Debug\net6.0\Volume_of_a_Cylinder.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\bin\Debug\net6.0\Volume_of_a_Cylinder.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\bin\Debug\net6.0\Volume_of_a_Cylinder.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\bin\Debug\net6.0\Volume_of_a_Cylinder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\bin\Debug\net6.0\Volume_of_a_Cylinder.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\refint\Volume_of_a_Cylinder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\Volume_of_a_Cylinder.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Volume_of_a_Cylinder\obj\Debug\net6.0\ref\Volume_of_a_Cylinder.dll

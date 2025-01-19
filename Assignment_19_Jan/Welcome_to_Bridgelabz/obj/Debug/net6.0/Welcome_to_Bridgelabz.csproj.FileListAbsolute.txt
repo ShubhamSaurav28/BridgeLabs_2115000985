@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\bin\Debug\net6.0\Welcome_to_Bridgelabz.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\bin\Debug\net6.0\Welcome_to_Bridgelabz.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\bin\Debug\net6.0\Welcome_to_Bridgelabz.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\bin\Debug\net6.0\Welcome_to_Bridgelabz.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\bin\Debug\net6.0\Welcome_to_Bridgelabz.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\refint\Welcome_to_Bridgelabz.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\Welcome_to_Bridgelabz.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Welcome_to_Bridgelabz\obj\Debug\net6.0\ref\Welcome_to_Bridgelabz.dll

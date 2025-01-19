@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\bin\Debug\net6.0\Add_Two_Numbers.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\bin\Debug\net6.0\Add_Two_Numbers.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\bin\Debug\net6.0\Add_Two_Numbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\bin\Debug\net6.0\Add_Two_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\bin\Debug\net6.0\Add_Two_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\refint\Add_Two_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\Add_Two_Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Add_Two_Numbers\obj\Debug\net6.0\ref\Add_Two_Numbers.dll

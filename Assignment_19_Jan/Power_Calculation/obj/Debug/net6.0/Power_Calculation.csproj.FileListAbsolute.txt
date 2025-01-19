@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\bin\Debug\net6.0\Power_Calculation.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\bin\Debug\net6.0\Power_Calculation.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\bin\Debug\net6.0\Power_Calculation.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\bin\Debug\net6.0\Power_Calculation.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\bin\Debug\net6.0\Power_Calculation.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\refint\Power_Calculation.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\Power_Calculation.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Power_Calculation\obj\Debug\net6.0\ref\Power_Calculation.dll

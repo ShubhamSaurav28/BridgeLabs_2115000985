@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\bin\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\bin\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\bin\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\bin\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\bin\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\refint\Celsius_to_Fahrenheit_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\Celsius_to_Fahrenheit_Conversion.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Celsius_to_Fahrenheit_Conversion\obj\Debug\net6.0\ref\Celsius_to_Fahrenheit_Conversion.dll

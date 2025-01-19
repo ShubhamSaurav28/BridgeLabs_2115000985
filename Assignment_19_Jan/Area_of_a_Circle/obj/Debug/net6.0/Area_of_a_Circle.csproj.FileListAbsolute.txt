@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\bin\Debug\net6.0\Area_of_a_Circle.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\bin\Debug\net6.0\Area_of_a_Circle.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\bin\Debug\net6.0\Area_of_a_Circle.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\bin\Debug\net6.0\Area_of_a_Circle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\bin\Debug\net6.0\Area_of_a_Circle.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\refint\Area_of_a_Circle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\Area_of_a_Circle.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Area_of_a_Circle\obj\Debug\net6.0\ref\Area_of_a_Circle.dll

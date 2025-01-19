@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\bin\Debug\net6.0\Calculate_Average_of_Three_Numbers.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\bin\Debug\net6.0\Calculate_Average_of_Three_Numbers.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\bin\Debug\net6.0\Calculate_Average_of_Three_Numbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\bin\Debug\net6.0\Calculate_Average_of_Three_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\bin\Debug\net6.0\Calculate_Average_of_Three_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\refint\Calculate_Average_of_Three_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\Calculate_Average_of_Three_Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Average_of_Three_Numbers\obj\Debug\net6.0\ref\Calculate_Average_of_Three_Numbers.dll

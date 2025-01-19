@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\bin\Debug\net6.0\Perimeter_of_a_Rectangle.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\bin\Debug\net6.0\Perimeter_of_a_Rectangle.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\bin\Debug\net6.0\Perimeter_of_a_Rectangle.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\bin\Debug\net6.0\Perimeter_of_a_Rectangle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\bin\Debug\net6.0\Perimeter_of_a_Rectangle.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\refint\Perimeter_of_a_Rectangle.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\Perimeter_of_a_Rectangle.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Perimeter_of_a_Rectangle\obj\Debug\net6.0\ref\Perimeter_of_a_Rectangle.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\bin\Debug\net6.0\Calculate_Simple_Interest.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\bin\Debug\net6.0\Calculate_Simple_Interest.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\bin\Debug\net6.0\Calculate_Simple_Interest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\bin\Debug\net6.0\Calculate_Simple_Interest.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\bin\Debug\net6.0\Calculate_Simple_Interest.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\refint\Calculate_Simple_Interest.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\Calculate_Simple_Interest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_19_Jan\Calculate_Simple_Interest\obj\Debug\net6.0\ref\Calculate_Simple_Interest.dll
