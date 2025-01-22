@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\bin\Debug\net6.0\Quotient_and_Remainder.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\bin\Debug\net6.0\Quotient_and_Remainder.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\bin\Debug\net6.0\Quotient_and_Remainder.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\bin\Debug\net6.0\Quotient_and_Remainder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\bin\Debug\net6.0\Quotient_and_Remainder.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\refint\Quotient_and_Remainder.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\Quotient_and_Remainder.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Quotient_and_Remainder\obj\Debug\net6.0\ref\Quotient_and_Remainder.dll

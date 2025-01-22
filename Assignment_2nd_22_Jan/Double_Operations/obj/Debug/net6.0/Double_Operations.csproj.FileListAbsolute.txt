@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\bin\Debug\net6.0\Double_Operations.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\bin\Debug\net6.0\Double_Operations.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\bin\Debug\net6.0\Double_Operations.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\bin\Debug\net6.0\Double_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\bin\Debug\net6.0\Double_Operations.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\refint\Double_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\Double_Operations.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Double_Operations\obj\Debug\net6.0\ref\Double_Operations.dll

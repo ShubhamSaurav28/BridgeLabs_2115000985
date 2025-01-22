@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quotient_and_Remainder/1.0.0": {
+        "runtime": {
+          "Quotient_and_Remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quotient_and_Remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

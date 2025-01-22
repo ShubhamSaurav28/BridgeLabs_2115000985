@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\bin\Debug\net6.0\Swap_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\refint\Swap_Numbers.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\Swap_Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Swap_Numbers\obj\Debug\net6.0\ref\Swap_Numbers.dll

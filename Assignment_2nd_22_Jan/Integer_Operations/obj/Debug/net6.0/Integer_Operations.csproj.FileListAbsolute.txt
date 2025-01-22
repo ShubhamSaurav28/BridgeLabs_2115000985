@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\bin\Debug\net6.0\Integer_Operations.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\bin\Debug\net6.0\Integer_Operations.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\bin\Debug\net6.0\Integer_Operations.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\bin\Debug\net6.0\Integer_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\bin\Debug\net6.0\Integer_Operations.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\refint\Integer_Operations.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\Integer_Operations.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Integer_Operations\obj\Debug\net6.0\ref\Integer_Operations.dll

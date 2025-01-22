@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\bin\Debug\net6.0\Total_Income.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\bin\Debug\net6.0\Total_Income.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\bin\Debug\net6.0\Total_Income.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\bin\Debug\net6.0\Total_Income.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\bin\Debug\net6.0\Total_Income.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\refint\Total_Income.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\Total_Income.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Total_Income\obj\Debug\net6.0\ref\Total_Income.dll

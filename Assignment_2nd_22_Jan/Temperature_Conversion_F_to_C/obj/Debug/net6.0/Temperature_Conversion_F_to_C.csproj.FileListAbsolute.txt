@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\bin\Debug\net6.0\Temperature_Conversion_F_to_C.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\bin\Debug\net6.0\Temperature_Conversion_F_to_C.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\bin\Debug\net6.0\Temperature_Conversion_F_to_C.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\bin\Debug\net6.0\Temperature_Conversion_F_to_C.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\bin\Debug\net6.0\Temperature_Conversion_F_to_C.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\refint\Temperature_Conversion_F_to_C.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\Temperature_Conversion_F_to_C.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Temperature_Conversion_F_to_C\obj\Debug\net6.0\ref\Temperature_Conversion_F_to_C.dll

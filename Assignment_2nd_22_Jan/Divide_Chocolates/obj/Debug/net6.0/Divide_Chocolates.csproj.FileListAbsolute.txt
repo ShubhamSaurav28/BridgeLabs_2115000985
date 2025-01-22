@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\bin\Debug\net6.0\Divide_Chocolates.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\bin\Debug\net6.0\Divide_Chocolates.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\bin\Debug\net6.0\Divide_Chocolates.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\bin\Debug\net6.0\Divide_Chocolates.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\bin\Debug\net6.0\Divide_Chocolates.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\refint\Divide_Chocolates.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\Divide_Chocolates.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Divide_Chocolates\obj\Debug\net6.0\ref\Divide_Chocolates.dll

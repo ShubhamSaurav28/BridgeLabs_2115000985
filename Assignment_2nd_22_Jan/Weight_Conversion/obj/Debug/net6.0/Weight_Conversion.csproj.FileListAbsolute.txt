@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\bin\Debug\net6.0\Weight_Conversion.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\bin\Debug\net6.0\Weight_Conversion.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\bin\Debug\net6.0\Weight_Conversion.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\bin\Debug\net6.0\Weight_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\bin\Debug\net6.0\Weight_Conversion.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\refint\Weight_Conversion.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\Weight_Conversion.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Weight_Conversion\obj\Debug\net6.0\ref\Weight_Conversion.dll

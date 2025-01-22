@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\bin\Debug\net6.0\Athlete_Rounds.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\bin\Debug\net6.0\Athlete_Rounds.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\bin\Debug\net6.0\Athlete_Rounds.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\bin\Debug\net6.0\Athlete_Rounds.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\bin\Debug\net6.0\Athlete_Rounds.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\refint\Athlete_Rounds.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\Athlete_Rounds.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Athlete_Rounds\obj\Debug\net6.0\ref\Athlete_Rounds.dll

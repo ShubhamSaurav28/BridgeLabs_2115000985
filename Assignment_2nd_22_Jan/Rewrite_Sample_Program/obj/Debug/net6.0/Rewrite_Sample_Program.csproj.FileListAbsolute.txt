@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\bin\Debug\net6.0\Rewrite_Sample_Program.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\bin\Debug\net6.0\Rewrite_Sample_Program.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\bin\Debug\net6.0\Rewrite_Sample_Program.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\bin\Debug\net6.0\Rewrite_Sample_Program.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\bin\Debug\net6.0\Rewrite_Sample_Program.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\refint\Rewrite_Sample_Program.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\Rewrite_Sample_Program.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_2nd_22_Jan\Rewrite_Sample_Program\obj\Debug\net6.0\ref\Rewrite_Sample_Program.dll
