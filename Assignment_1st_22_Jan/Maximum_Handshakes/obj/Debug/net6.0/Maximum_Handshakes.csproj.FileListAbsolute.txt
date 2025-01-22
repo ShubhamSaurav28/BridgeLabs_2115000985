@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\bin\Debug\net6.0\Maximum_Handshakes.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\bin\Debug\net6.0\Maximum_Handshakes.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\bin\Debug\net6.0\Maximum_Handshakes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\bin\Debug\net6.0\Maximum_Handshakes.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\bin\Debug\net6.0\Maximum_Handshakes.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\refint\Maximum_Handshakes.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\Maximum_Handshakes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Maximum_Handshakes\obj\Debug\net6.0\ref\Maximum_Handshakes.dll

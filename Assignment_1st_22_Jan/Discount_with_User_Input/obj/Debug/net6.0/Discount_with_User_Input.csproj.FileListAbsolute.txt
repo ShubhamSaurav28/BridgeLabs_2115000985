@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\bin\Debug\net6.0\Discount_with_User_Input.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\bin\Debug\net6.0\Discount_with_User_Input.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\bin\Debug\net6.0\Discount_with_User_Input.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\bin\Debug\net6.0\Discount_with_User_Input.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\bin\Debug\net6.0\Discount_with_User_Input.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\refint\Discount_with_User_Input.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\Discount_with_User_Input.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Discount_with_User_Input\obj\Debug\net6.0\ref\Discount_with_User_Input.dll

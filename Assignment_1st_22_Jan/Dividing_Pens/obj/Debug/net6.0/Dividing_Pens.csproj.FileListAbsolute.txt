@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\bin\Debug\net6.0\Dividing_Pens.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\bin\Debug\net6.0\Dividing_Pens.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\bin\Debug\net6.0\Dividing_Pens.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\bin\Debug\net6.0\Dividing_Pens.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\bin\Debug\net6.0\Dividing_Pens.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\refint\Dividing_Pens.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\Dividing_Pens.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Dividing_Pens\obj\Debug\net6.0\ref\Dividing_Pens.dll

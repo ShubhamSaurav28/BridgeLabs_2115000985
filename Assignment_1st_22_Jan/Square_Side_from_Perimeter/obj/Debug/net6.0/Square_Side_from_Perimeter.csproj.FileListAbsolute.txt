@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\bin\Debug\net6.0\Square_Side_from_Perimeter.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\bin\Debug\net6.0\Square_Side_from_Perimeter.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\bin\Debug\net6.0\Square_Side_from_Perimeter.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\bin\Debug\net6.0\Square_Side_from_Perimeter.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\bin\Debug\net6.0\Square_Side_from_Perimeter.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\refint\Square_Side_from_Perimeter.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\Square_Side_from_Perimeter.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Square_Side_from_Perimeter\obj\Debug\net6.0\ref\Square_Side_from_Perimeter.dll

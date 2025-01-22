@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\bin\Debug\net6.0\Profit_and_Loss.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\bin\Debug\net6.0\Profit_and_Loss.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\bin\Debug\net6.0\Profit_and_Loss.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\bin\Debug\net6.0\Profit_and_Loss.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\bin\Debug\net6.0\Profit_and_Loss.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\refint\Profit_and_Loss.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\Profit_and_Loss.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Profit_and_Loss\obj\Debug\net6.0\ref\Profit_and_Loss.dll

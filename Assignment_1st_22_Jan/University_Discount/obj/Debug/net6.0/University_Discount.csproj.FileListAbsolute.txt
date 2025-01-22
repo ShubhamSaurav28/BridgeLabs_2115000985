@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\bin\Debug\net6.0\University_Discount.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\bin\Debug\net6.0\University_Discount.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\bin\Debug\net6.0\University_Discount.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\bin\Debug\net6.0\University_Discount.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\bin\Debug\net6.0\University_Discount.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\refint\University_Discount.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\University_Discount.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\University_Discount\obj\Debug\net6.0\ref\University_Discount.dll

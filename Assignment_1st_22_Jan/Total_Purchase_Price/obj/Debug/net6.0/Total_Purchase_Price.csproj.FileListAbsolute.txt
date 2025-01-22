@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\bin\Debug\net6.0\Total_Purchase_Price.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\bin\Debug\net6.0\Total_Purchase_Price.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\bin\Debug\net6.0\Total_Purchase_Price.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\bin\Debug\net6.0\Total_Purchase_Price.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\bin\Debug\net6.0\Total_Purchase_Price.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\refint\Total_Purchase_Price.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\Total_Purchase_Price.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Total_Purchase_Price\obj\Debug\net6.0\ref\Total_Purchase_Price.dll

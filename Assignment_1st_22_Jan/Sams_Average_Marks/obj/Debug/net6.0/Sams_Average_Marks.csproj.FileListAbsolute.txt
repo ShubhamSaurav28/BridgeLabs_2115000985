@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\bin\Debug\net6.0\Sams_Average_Marks.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\bin\Debug\net6.0\Sams_Average_Marks.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\bin\Debug\net6.0\Sams_Average_Marks.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\bin\Debug\net6.0\Sams_Average_Marks.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\bin\Debug\net6.0\Sams_Average_Marks.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\refint\Sams_Average_Marks.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\Sams_Average_Marks.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Sams_Average_Marks\obj\Debug\net6.0\ref\Sams_Average_Marks.dll

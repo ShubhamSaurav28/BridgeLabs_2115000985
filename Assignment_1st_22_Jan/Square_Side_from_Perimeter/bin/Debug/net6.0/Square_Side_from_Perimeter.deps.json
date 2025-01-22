@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Square_Side_from_Perimeter/1.0.0": {
+        "runtime": {
+          "Square_Side_from_Perimeter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Square_Side_from_Perimeter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

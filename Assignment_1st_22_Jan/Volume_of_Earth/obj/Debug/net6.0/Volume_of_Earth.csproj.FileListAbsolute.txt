@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\bin\Debug\net6.0\Volume_of_Earth.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\bin\Debug\net6.0\Volume_of_Earth.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\bin\Debug\net6.0\Volume_of_Earth.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\bin\Debug\net6.0\Volume_of_Earth.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\bin\Debug\net6.0\Volume_of_Earth.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\refint\Volume_of_Earth.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\Volume_of_Earth.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_22_Jan\Volume_of_Earth\obj\Debug\net6.0\ref\Volume_of_Earth.dll

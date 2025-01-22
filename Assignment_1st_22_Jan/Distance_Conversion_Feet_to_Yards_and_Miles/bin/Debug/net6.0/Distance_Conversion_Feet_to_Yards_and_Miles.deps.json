@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Distance_Conversion_Feet_to_Yards_and_Miles/1.0.0": {
+        "runtime": {
+          "Distance_Conversion_Feet_to_Yards_and_Miles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distance_Conversion_Feet_to_Yards_and_Miles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
