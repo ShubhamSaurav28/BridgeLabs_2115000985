@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\bin\Debug\net6.0\Assaginment_1st_27_Jan.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\bin\Debug\net6.0\Assaginment_1st_27_Jan.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\bin\Debug\net6.0\Assaginment_1st_27_Jan.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\bin\Debug\net6.0\Assaginment_1st_27_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\bin\Debug\net6.0\Assaginment_1st_27_Jan.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\refint\Assaginment_1st_27_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\Assaginment_1st_27_Jan.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assaginment_1st_27_Jan\obj\Debug\net6.0\ref\Assaginment_1st_27_Jan.dll
