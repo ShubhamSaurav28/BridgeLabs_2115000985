@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\bin\Debug\net6.0\Assignment_1st_29_Jan.exe
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\bin\Debug\net6.0\Assignment_1st_29_Jan.deps.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\bin\Debug\net6.0\Assignment_1st_29_Jan.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\bin\Debug\net6.0\Assignment_1st_29_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\bin\Debug\net6.0\Assignment_1st_29_Jan.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\refint\Assignment_1st_29_Jan.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.pdb
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\Assignment_1st_29_Jan.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\Assignment_1st_29_Jan\obj\Debug\net6.0\ref\Assignment_1st_29_Jan.dll
