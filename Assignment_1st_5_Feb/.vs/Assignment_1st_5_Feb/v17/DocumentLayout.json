@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_5_Feb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCC1F4D-6571-4E06-9212-CCE5DE340D89}|Assignment_1st_5_Feb.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\assignment_1st_5_feb\\grocerystorebillgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCC1F4D-6571-4E06-9212-CCE5DE340D89}|Assignment_1st_5_Feb.csproj|solutionrelative:grocerystorebillgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCC1F4D-6571-4E06-9212-CCE5DE340D89}|Assignment_1st_5_Feb.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\assignment_1st_5_feb\\schoolresultapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCC1F4D-6571-4E06-9212-CCE5DE340D89}|Assignment_1st_5_Feb.csproj|solutionrelative:schoolresultapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceryStoreBillGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_5_Feb\\GroceryStoreBillGeneration.cs",
+              "RelativeDocumentMoniker": "GroceryStoreBillGeneration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_5_Feb\\GroceryStoreBillGeneration.cs",
+              "RelativeToolTip": "GroceryStoreBillGeneration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:22:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolResultApp.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_5_Feb\\SchoolResultApp.cs",
+              "RelativeDocumentMoniker": "SchoolResultApp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_5_Feb\\SchoolResultApp.cs",
+              "RelativeToolTip": "SchoolResultApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:22:43.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
