@@ -7,6 +7,12 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 10**
+  - Assignment: *Submission of Encapsulation, Polymorphism, Interface and Abstract Class*
+  - Material: *06 Encapsulation, Interface, Abstract Classes, and Polymorphism*
+- **Feb 7**
+  - Assignment: *Submission of Inheritance*
+  - Material: *05 Inheritance*
 - **Feb 6**
   - Assignment: *Submission of Object Oriented Design Principles -Half*
   - Material: *04 Object Modeling, Class Diagram*
