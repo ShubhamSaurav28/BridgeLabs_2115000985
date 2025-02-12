@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 12**
+  - Assignment: *01 - Submission of Data Structures - LinkedList*
+  - Material: *01 - Data Structure Introduction and LinkedList*
 - **Feb 10**
   - Assignment: *Submission of Encapsulation, Polymorphism, Interface and Abstract Class*
   - Material: *06 Encapsulation, Interface, Abstract Classes, and Polymorphism*
