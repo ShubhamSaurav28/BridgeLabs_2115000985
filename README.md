@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 13**
+  - Assignment: *02 - Submission of Stack , Queue, HashMap and Hashing Function*
+  - Material: *02 Stack , Queue, HashMap and Hashing Function*
 - **Feb 12**
   - Assignment: *01 - Submission of Data Structures - LinkedList*
   - Material: *01 - Data Structure Introduction and LinkedList*
