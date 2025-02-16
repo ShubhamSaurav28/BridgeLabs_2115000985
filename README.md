@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 16**
+  - Assignment: *04 and 05 Submission of Linear and Binary Search*
+  - Material: *04 and 05 Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader*
 - **Feb 14**
   - Assignment: *03 - Submission of Sorting Algorithms*
   - Material: *03 Sorting Algorithms*
