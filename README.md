@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 17**
+  - Assignment: *06- Submission of Algorithm's Runtime Analysis & Big-O Notation*
+  - Material: *06 - Algorithm's Runtime Analysis & Big-O Notation*
 - **Feb 16**
   - Assignment: *04 and 05 Submission of Linear and Binary Search*
   - Material: *04 and 05 Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader*
