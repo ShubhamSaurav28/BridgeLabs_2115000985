@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 18**
+  - Assignment: *01 Submission of C# Generics*
+  - Material: *01 C# Generics*
 - **Feb 17**
   - Assignment: *06- Submission of Algorithm's Runtime Analysis & Big-O Notation*
   - Material: *06 - Algorithm's Runtime Analysis & Big-O Notation*
