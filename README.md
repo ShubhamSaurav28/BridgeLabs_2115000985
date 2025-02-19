@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 19**
+  - Assignment: *02 Submission of Collections*
+  - Material: *02 Collections*
 - **Feb 18**
   - Assignment: *01 Submission of C# Generics*
   - Material: *01 C# Generics*
