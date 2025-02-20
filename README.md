@@ -7,6 +7,9 @@ This README summarizes the assignments and materials done on that day from the *
 ## Assignments and Materials Done
 
 ### **February 2025**
+- **Feb 20**
+  - Assignment: *03 Submission of C# Streams*
+  - Material: *03 - C# Streams*
 - **Feb 19**
   - Assignment: *02 Submission of Collections*
   - Material: *02 Collections*
