@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\UserRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DateFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DateFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\EvenNumberChecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EvenNumberChecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ExceptionHandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExceptionHandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\FileProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\PasswordValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PasswordValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\StringUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\TemperatureConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TemperatureConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DateFormatter.cs",
+              "RelativeDocumentMoniker": "DateFormatter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\DateFormatter.cs",
+              "RelativeToolTip": "DateFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EvenNumberChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\EvenNumberChecker.cs",
+              "RelativeDocumentMoniker": "EvenNumberChecker.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\EvenNumberChecker.cs",
+              "RelativeToolTip": "EvenNumberChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:53:06.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ExceptionHandling.cs",
+              "RelativeToolTip": "ExceptionHandling.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "UserRegistration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\UserRegistration.cs",
+              "RelativeToolTip": "UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T17:52:46.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "FileProcessor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\FileProcessor.cs",
+              "RelativeToolTip": "FileProcessor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:54.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ListManager.cs",
+              "RelativeDocumentMoniker": "ListManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\ListManager.cs",
+              "RelativeToolTip": "ListManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\PasswordValidator.cs",
+              "RelativeToolTip": "PasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Performance.cs",
+              "RelativeDocumentMoniker": "Performance.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\Performance.cs",
+              "RelativeToolTip": "Performance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\TemperatureConverter.cs",
+              "RelativeToolTip": "TemperatureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\StringUtils.cs",
+              "RelativeDocumentMoniker": "StringUtils.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\Assignment_1st_22_Feb\\StringUtils.cs",
+              "RelativeToolTip": "StringUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:52:26.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
