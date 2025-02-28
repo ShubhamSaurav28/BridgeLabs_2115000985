@@ -1,3 +1,4 @@
+using ModelLayer.DTO;
 using BusinessLayer.Service;
 using RepositoryLayer.Service;
 
@@ -7,6 +8,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<UserRegistrationBL>();
 builder.Services.AddScoped<UserRegistrationRL>();
+builder.Services.AddScoped<LoginDTO>();
 
 var app = builder.Build();
 

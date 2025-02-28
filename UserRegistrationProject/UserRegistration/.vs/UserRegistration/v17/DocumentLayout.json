@@ -3,29 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F21C408D-E516-4B0B-9482-35332052C69A}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8927EEC-5E29-4F29-86A8-739EE9E12B11}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F21C408D-E516-4B0B-9482-35332052C69A}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69FB1E87-7448-4621-8E83-82F7CE5B42B8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\modellayer\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FB1E87-7448-4621-8E83-82F7CE5B42B8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FB1E87-7448-4621-8E83-82F7CE5B42B8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8927EEC-5E29-4F29-86A8-739EE9E12B11}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\userregistration\\userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0B338D9F-FB80-4A2B-AEED-6D634276693D}|UserRegistration.csproj|solutionrelative:userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69FB1E87-7448-4621-8E83-82F7CE5B42B8}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F21C408D-E516-4B0B-9482-35332052C69A}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\desktop\\my\\bridgelabs_training\\userregistrationproject\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -38,32 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BusinessLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T22:15:06.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRegistration.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\UserRegistration.csproj",
-              "RelativeDocumentMoniker": "UserRegistration.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\UserRegistration.csproj",
-              "RelativeToolTip": "UserRegistration.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T22:14:50.721Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -72,22 +60,61 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T22:12:49.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserRegistrationRL.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
               "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
               "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T22:10:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:28:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:27:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAMwEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:00:51.2Z",
               "EditorCaption": ""
             },
             {
@@ -96,41 +123,81 @@
               "Title": "UserRegistrationBL.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\Service\\UserRegistrationBL.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\Service\\UserRegistrationBL.cs*",
-              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T22:09:36.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs*",
-              "RelativeToolTip": "Controllers\\UserRegistrationController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T22:00:51.2Z",
+              "WhenOpened": "2025-02-28T18:22:58.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-27T22:13:46.779Z"
+              "WhenOpened": "2025-02-27T22:13:46.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "UserRegistration.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\UserRegistration.csproj",
+              "RelativeDocumentMoniker": "UserRegistration.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\UserRegistration\\UserRegistration.csproj",
+              "RelativeToolTip": "UserRegistration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T22:14:50.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T22:15:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelLayer",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "..\\ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T18:20:51.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "RepositoryLayer.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\MY\\BridgeLabs_Training\\UserRegistrationProject\\RepositoryLayer\\RepositoryLayer.csproj",
               "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",

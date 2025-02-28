@@ -33,3 +33,5 @@ C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegis
 C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
 C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegistration\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Lenovo\Desktop\MY\BridgeLabs_Training\UserRegistrationProject\UserRegistration\bin\Debug\net6.0\ModelLayer.pdb

@@ -1,24 +1,36 @@
-﻿using RepositoryLayer.Service;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ModelLayer.DTO;
+using RepositoryLayer.Service;
 
 namespace BusinessLayer.Service
 {
     public class UserRegistrationBL
     {
-        private readonly UserRegistrationRL _repositoryLayer;
+        private UserRegistrationRL _userRegistrationRL;
 
-        public UserRegistrationBL()
+        public UserRegistrationBL(UserRegistrationRL userRegistrationRL)
         {
-            _repositoryLayer = new UserRegistrationRL();
+            _userRegistrationRL = userRegistrationRL;
         }
 
-        public string RegistrationBL(string username, string password)
+        public string Registration(string name)
         {
-            var (storedUsername, storedPassword) = _repositoryLayer.RegistrationRL();
+            return "Data from business layer " + _userRegistrationRL.GetHello(name);
+        }
 
-            if (username == storedUsername && password == storedPassword)
-                return "Login Successful";
-            else
-                return "Invalid username and password";
+        public bool RegisterUser(RegistrationDTO registrationDTO)
+        {
+            return _userRegistrationRL.SaveUser(registrationDTO);
+        }
+
+        public bool LoginUser(LoginDTO loginDTO)
+        {
+            var result = _userRegistrationRL.GetUsernamePassword(loginDTO);
+            return result != null && loginDTO.Username.Equals(result.Username) && loginDTO.Password.Equals(result.Password);
         }
     }
 }
