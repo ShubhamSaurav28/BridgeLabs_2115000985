@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "UserRegistration.Controllers.UserRegistrationController",
+    "Method": "Registration",
+    "RelativePath": "UserRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
